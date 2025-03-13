@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "javdome/unstyled-blade-starter-kit",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A basic Laravel Blade starter kit with no CSS framework",
     "keywords": [
         "laravel",
         "framework"
