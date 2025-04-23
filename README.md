@@ -8,7 +8,15 @@ You can install your favorite libraries and CSS frameworks, such as Bootstrap, T
 
 ## Installation
 
-Installation can be done by laravel installer.
+### Via Laravel Herd
+
+One-click install a new application using this starter kit through [Laravel Herd](https://herd.laravel.com):
+
+<a href="https://herd.laravel.com/new?starter-kit=javdome/unstyled-blade-starter-kit"><img src="https://img.shields.io/badge/Install%20with%20Herd-fff?logo=laravel&logoColor=f53003" alt="Install with Herd"></a>
+
+### Via the Laravel Installer
+
+Create a new Laravel application using this starter kit through the official [Laravel Installer](https://laravel.com/docs/12.x/starter-kits#community-maintained-starter-kits):
 
 ```bash
 laravel new my-app --using=javdome/unstyled-blade-starter-kit
@@ -28,4 +36,4 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## License
 
-The Laravel + Livewire starter kit is open-sourced software licensed under the MIT license.
+The Laravel + Unstyled Blade starter kit is open-sourced software licensed under the MIT license.
